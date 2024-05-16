@@ -49,13 +49,14 @@ main {
 }
 
 button {
-  padding: 1rem 2rem;
+  padding: 4rem 8rem;
   margin: 0 1rem;
   border-radius: 5px;
   border: none;
   font-weight: bold;
   cursor: pointer;
   transition: transform 0.2s;
+  font-size: 2rem;
 }
 
 button:hover {
